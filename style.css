@@ -366,4 +366,12 @@ width: 100%;
 }
 .services_item {
 flex: 1 1 0;
+padding-left: 90px;
+position: relative;
+}
+.services_icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
 }
